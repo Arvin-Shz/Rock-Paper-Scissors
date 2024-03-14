@@ -66,6 +66,7 @@ body {
 	outline: 2px solid #fff;
 	transition-property: outline-offset, outline-color, background-color;
 	transition-duration: .5s;
+	margin-top: 15px;
 }
 
 .icon:hover {
@@ -127,6 +128,7 @@ body {
 	display: flex;
 	justify-content: center;
 	position: relative;
+	flex-wrap: wrap;
 }
 
 .social {
